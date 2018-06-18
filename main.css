@@ -1,0 +1,102 @@
+.cell {
+  width: 25px;
+  height: 25px;
+  border: 1px solid black;
+  display: inline-block;
+  margin: -2px;
+}
+
+h1{
+  text-align: center;
+}
+
+section {
+  width: 80vw;
+  height: 80vh;
+  margin: 0 auto;
+}
+
+.cell:hover {
+  cursor: pointer;
+
+}
+
+.red {
+  background: red;
+}
+
+.blue {
+  background: blue;
+}
+
+.green {
+  background: green;
+}
+
+.yellow {
+  background: yellow;
+}
+
+.orange {
+  background: orange;
+}
+
+.pink {
+  background: pink;
+}
+
+.purple {
+  background: purple;
+}
+
+.black {
+  background: black;
+}
+
+.paint {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.paintRed {
+  background: red;
+}
+
+.paintBlue {
+  background: blue;
+}
+
+.paintGreen {
+  background: green;
+}
+
+.paintYellow {
+  background: yellow;
+}
+
+.paintOrange {
+  background: orange;
+}
+
+.paintPink {
+  background: pink;
+}
+
+.paintPurple {
+  background: purple;
+}
+
+.paintBlack {
+  background: black;
+}
+
+.paintWhite {
+  background: white;
+  border: .5px solid black;
+}
+
+.paintSelected {
+  border: 1.5px solid black;
+}
